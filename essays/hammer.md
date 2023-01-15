@@ -11,7 +11,7 @@ labels:
   - Javascript
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="../img/construction-confusion.jpg">
+<img width="100px" class="rounded float-start pe-4" src="../img/construction-confusion.jpeg">
 
 *Practice, practice, practice*
 
