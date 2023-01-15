@@ -1,60 +1,81 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "name": "Justin Lisoway",
+    "label": "Student Athlete | UH Manoa",
+    "picture": "https://avatars.githubusercontent.com/u/122566407?v=4",
+    "email": "jlisoway@hawaii.edu",
+    "phone": "808-670-0194",
+    "website": "https://justinlisoway.github.io/",
+    "summary": "I am studying Computer Science, Math, and Finance at the University of Hawaii with an interest in FinTech. Expected graduation: Spring 2024.",
+    "location": { "address": "303 Liliuokalani Ave APT 1102", "postalCode": "96815", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "JustinLisoway", "url": "https://justinlisoway.github.io/" },
+      { "network": "linkedin", "username": "JustinLisoway", "url": "https://www.linkedin.com/in/justinlisoway/" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Fin Tech" },
+    { "name": "Start-Ups" },
+    { "name": "App Development" },
+    { "name": "Investment Technologies" }
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "name": "Languages",
+      "keywords": ["Java", "Javascript", "C++", "HTML", "CSS", "R" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Microsoft Office Suite", "Git/GitHub" ]
+    }, {
+      "name": "Certifications",
+      "keywords": [ "CFA Level 1", "CFA Level 2 Candidate"]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "area": "Computer Science (expected Spring, 2024)",
+      "studyType": "M.S.",
+      "startDate": "2020-09-01",
       "endDate": "Present",
+      "courses": [
+      ]
+    }, {
+      "institution": "Shidler College of Business, Honolulu, HI",
+      "area": "Finance (expected Spring, 2023)",
+      "studyType": "M.S.",
+      "startDate": "2021-09-01",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }, {
+      "institution": "Shidler College of Business, Honolulu, HI",
+      "area": "Finance",
+      "studyType": "B.S.",
+      "startDate": "2019-09-01",
+      "endDate": "2022-05-01",
+      "courses": [
+      ]
+    }, {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Mathematics",
+      "studyType": "Minor",
+      "startDate": "2019-09-01",
+      "endDate": "2022-05-01",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Bank Of Hawaii",
+      "position": "Commercial Credit Group Summer Intern",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
-      "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
+      "startDate": "2022-06-01",
+      "endDate": "2022-08-20",
+      "summary": "Exposure to commercial credit issuance and commercial real-estate deals.",
+      "highlights": [""]
     },
     {
       "company": "UH Information Technology Services",
