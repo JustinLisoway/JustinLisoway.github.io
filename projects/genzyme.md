@@ -9,7 +9,7 @@ labels:
   - M&A
   - Finance
   - Aquisition Analysis
-summary: "As a case study, I thouroughly analyzed the quantitative and qualitative aspects of the Sanofi-Aventis Genzyme aquisiton to be presented to Genzyme's board of directors."
+summary: "I thouroughly analyzed the Sanofi-Aventis Genzyme aquisiton for FIN 305"
 ---
 
 <div class="text-center p-4">
