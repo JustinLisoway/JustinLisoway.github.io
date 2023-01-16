@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/genzyme-square.jpeg
 title: "Genzyme Aquisition"
-date: 2020
+date: 2021
 published: true
 labels:
   - M&A
