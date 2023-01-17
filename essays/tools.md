@@ -4,7 +4,7 @@ type: essay
 title: "Tools For The Modern World"
 # All dates must be YYYY-MM-DD format!
 date: 2023-01-15
-published: false
+published: true
 labels:
   - Software Engineering
   - Personal Development
