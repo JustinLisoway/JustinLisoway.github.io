@@ -17,7 +17,7 @@ Nobody is a perfect software engineer, and everybody still has skills in program
 
 At the very basis of this collective progression though, must be the fundamental skill of knowing how to work collectively. It means that you must be willing to think and act as if you are part of a team, even when you might be working on a project alone. One must convey an attitude of gratitude and make it as easy as possible for others to offer their help, and vis versa. Furthermore, the only way to successfully communicate that attitude is through the quality of the questions that you ask and answer, because this is really the only communication that will be received. Lastly, part of what motivates the question/answer dialog of a forum might just be that their is an inherent promise that if I can provide some knowledge of a topic in an area where I happen to know more about than the average programmer, then perhaps that benefit will be passed around and I will one day be provided with similar help.
 
-*What goes around, comes around*
+*What goes around, comes around.*
 
 Thus, the image being conveyed of the person asking the question in the mind of a potential answerer is almost just as important, if not more important, than the actual difficulty of the question, because it conveys that person’s future willingness to contribute to the community.
 
