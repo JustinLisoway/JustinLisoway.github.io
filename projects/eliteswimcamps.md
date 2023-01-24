@@ -21,3 +21,4 @@ My friend and I founded Elite Swim Camps in 2018. Using our pre-existing relatio
 
 
 Website: <a href="https://sites.google.com/view/esc-2023/home"><i class="large github icon "></i>Elite-Swim-Camps</a>
+Note: This site may be blocked depending on your adminstrator account settings. Try using a different browser or different google account.
