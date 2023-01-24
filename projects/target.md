@@ -8,7 +8,7 @@ published: true
 labels:
   - Finance
   - Financial Analysis
-summary: "I thouroughly analyzed 5 Target expansions proposals for FIN 305"
+summary: "I thoroughly analyzed 5 Target expansions proposals for FIN 305"
 ---
 
 <div class="text-center p-4">
