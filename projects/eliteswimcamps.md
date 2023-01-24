@@ -6,7 +6,7 @@ title: "Elite Swim Camps"
 date: 2018
 published: true
 labels:
-  - Entrenrenuer
+  - Entrepreneur
   - Swimming
 summary: "I started a summer swim camp business in 2018."
 ---
