@@ -11,8 +11,6 @@ labels:
   - Frameworks
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/construction-confusion.jpeg">
-
 Why use a potentially creatively restraining UI framework, when one could write all of the CSS and HTML on their own?
 
 I see two reasons: *the individual may be slower, and the team WILL be slower*.
